@@ -1,0 +1,8 @@
+{
+  "tsmUrl" : "http://localhost/servoy-service/rest_ws/api_gateway/v0",
+  "amqpUrl" : "amqp://192.168.59.103:9099",
+  "requestExchange" : "tsm.api.request.exchange",
+  "requestQueue" : "tsm.api.request.queue",
+  "responseExchange" : "tsm.api.response.exchange",
+  "responseQueue" : "tsm.api.response.queue"
+}
